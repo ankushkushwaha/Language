@@ -2,7 +2,7 @@
 
 # To run the script put 'python ./script.py' in terminal
 
-lines = [line.rstrip('\n') for line in open('en')]
+lines = [line.rstrip('\n') for line in open('en.txt')]
 
 svArray = []
 enArray = []
@@ -17,7 +17,7 @@ for s in lines:
 
 # print(svArray)
 
-lines = [line.rstrip('\n') for line in open('sv_en')]
+lines = [line.rstrip('\n') for line in open('sv_en.txt')]
 
 correct_sv_Array = []
 correct_en_Array = []
@@ -42,7 +42,7 @@ for correctString in correct_sv_Array:
 	index = index+1
 
 
-thefile = open('autocheck', 'w')
+thefile = open('autocheck.txt', 'w')
 for item in result:
  print>>thefile, item
 

@@ -1,5 +1,7 @@
 hjälper
 följer
+följer efter
+förfölja
 utreder
 södra
 visar
@@ -55,13 +57,13 @@ låt
 låg
 hög
 hel
-Helt
+helt
 stänga
-Utanför
+utanför
 dömts
 officiella
-Sist
-Förra
+sist
+förra
 först
 nödvändigt
 använda
@@ -81,18 +83,16 @@ göra
 studera
 tänka
 tänker
+tackar
 tror
 ringa
 håll
-Jag håller i
-Ser ut som
-Verka
-Vara lik(a)
-Likna
+jag håller i
+ser ut som
+verka
+verkar some att
 försöka
 presentera
-titta
-tittar på
 ligger på
 ligger
 hos
@@ -101,21 +101,32 @@ middag
 frukost
 gaffel
 juice
-Ord
-Vakna
-Lön
-Företag
+ord
+vakna
+lön
+företag
 yrke
 Ofta
-Namn
-Nivår
+namn
+nivår
 kyssa
+vilar
 orkar
 räcker
 stämmer
 känner
 vet
 slutar
+stannar
 lär
 önskar
+undrar
+båda
+sedan
+de flesta
+dör
+letar efter
+titta
+tittar på
+säger
 If verb is after noun

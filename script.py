@@ -2,11 +2,8 @@
 
 # To run the script put 'python ./script.py' in terminal
 
-file = open("sv_en","r")
 
-lines = file.readlines()
-file.close()
-lines = [line.rstrip('\n') for line in open('sv_en')]
+lines = [line.rstrip('\n') for line in open('sv_en.txt')]
 
 svArray = []
 enArray = []
@@ -16,13 +13,13 @@ for s in lines:
 	svArray.append( first );
 	enArray.append( second );
 
-thefile = open('en', 'w')
+thefile = open('en.txt', 'w')
 for item in enArray:
   print>>thefile, item+" = "
 
 thefile.close()
 
-thefile = open('sv', 'w')
+thefile = open('sv.txt', 'w')
 for item in svArray:
   print>>thefile, item
 
