@@ -29,18 +29,30 @@ for s in lines:
 
 index = 0
 result = []
+incorrectWords_Sv = []
+incorrectWords_En = []
 
 for correctString in correct_sv_Array:
 	if correctString == svArray[index]:
 		result.append("Correct : " + correctString);
-		print(result[index])
-
 	else:
 		result.append("InCorrect:--------------------" + correctString + " : Your Answer: "+svArray[index]);
-		print(result[index])
-
+		incorrectWords_Sv.append( correctString );
+		incorrectWords_En.append( correct_en_Array[index] );
+	
+	print("%d : %s" % (index+1, result[index]))
 	index = index+1
 
+print("%d : %d correct" % (len(incorrectWords_Sv), len(correct_sv_Array)))
+
+# for incorrectWord in incorrectWords_Sv:
+# 	print(incorrectWord)
+		
+print("InCorrect English words:--------------------")
+
+
+for incorrectWord in incorrectWords_En:
+		print(incorrectWord)
 
 thefile = open('autocheck.txt', 'w')
 for item in result:
