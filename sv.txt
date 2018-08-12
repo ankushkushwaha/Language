@@ -58,6 +58,7 @@ låg
 hög
 hel
 helt
+helg
 stänga
 utanför
 dömts
@@ -129,4 +130,18 @@ letar efter
 titta
 tittar på
 säger
+stavar
+längre
+det där
+det här
+kosta
+till höger
+till vänster
+gång till
+pluggar
+ihop
+varandra
+ingenjör
+frisör
+servitör
 If verb is after noun
