@@ -36,3 +36,6 @@ With a giver, it's av, but with origin like in the horse is from France it's fr�
 10. Han målar huset, Huset målas av honom + house is being painted by him
 11. hurdan hurdant hurdana är skor
 12. Jag jobbar på IT företag, sjukhuset
+13. Jag gillar att skriva, but , jag vill skriva (NO att with model verbs)
+14. Vi ses halv fem , jag kommer klockan fem -- NO Preposition needed like in english
+15. jag kommer hem, no use of till with hem

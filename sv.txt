@@ -135,7 +135,7 @@ längre
 det där
 det här
 kosta
-till höger
+till höger sida
 till vänster
 gång till
 pluggar
@@ -144,4 +144,54 @@ varandra
 ingenjör
 frisör
 servitör
+sjukskötersksa
+såklart
+självklart
+javisst
+forska
+för mycket
+förkyld
+förlåt
+längtar efter
+suddgummi
+kam
+läspp
+för att
+ingen orsak
+väskan
+flaska
+nyckel
+pengar
+necessär
+byt
+träd
+stund
+ungefär
+kaffe-pause
+stiger upp
+promenerar
+berättar
+tupplur
+somnar
+lägger mig
+rutan
+fikar
+duschar
+rostat
+affären
+räkna
+baklänges
+spegel
+dörr
+någon
+några
+något
+sätt in
+slå
+tyvärr
+kvittot
+läsk
+skulle vilja ha
+vänta
+tillbaka
 If verb is after noun
