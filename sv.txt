@@ -125,7 +125,7 @@ undrar
 båda
 sedan
 de flesta
-dör
+dö
 letar efter
 titta
 tittar på
@@ -189,6 +189,7 @@ något
 sätt in
 slå
 tyvärr
+vad synd
 kvittot
 läsk
 skulle vilja ha
@@ -204,4 +205,21 @@ hungrig
 sov gott
 röker
 Så sent
+lust
+fix
+favorit
+hur så
+låter kul
+i stället
+sällan
+trädgård
+blomma
+brukar
+landet
+jaga
+fiska
+bibliotek
+längenhet
+svara
+auktioner
 If verb is after noun
